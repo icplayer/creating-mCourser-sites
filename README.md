@@ -2,7 +2,7 @@
 This repository contains information how to create site for embeding into mCourser.
 
 ## mCourser communication
-For communication from your site to mCourser additional repository have been maintained: [mCourser communication](https://github.com/icplayer/mCourser-iframe-communication). This repository contains simple util for sending messages between the sites.
+For communication from your site to mCourser additional repository have been maintained: [mCourser communication](https://github.com/icplayer/mCourser-iframe-communication). That repository contains simple util for sending messages between the sites.
 
 ## Creating site
 mCourser contains only few requirement and limitations: 
