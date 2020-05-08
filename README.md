@@ -17,13 +17,13 @@ Additional skills, which would be useful while creating the site are:
  * Angular
  
 ## mCourser communication
-For communication from your site to mCourser additional repository have been maintained: [mCourser communication](https://github.com/icplayer/mCourser-iframe-communication). That repository contains simple util for sending messages between the sites.
+For communication from your site to mCourser additional repository has been maintained: [mCourser communication](https://github.com/icplayer/mCourser-iframe-communication). That repository contains simple util for sending messages between the sites.
 
 ## Creating site
 mCourser has just few requirement and limitations: 
 * All paths must be relative: styles, JS or images.
-* A package must be zip file with index.html file in root.
-* The site sends information about site height, see: [Site height](./pages/page-height.md)
+* A package must be zip file with index.html file in the root.
+* The site sends information about a site height, see: [Site height](./pages/page-height.md)
 * Not all APIs between the sites are available. It depends of usage context.
 
 

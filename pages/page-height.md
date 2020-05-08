@@ -1,6 +1,6 @@
 # Setting custom page height of iFrame
 Page embeded in mCourser is available via iFrame. Because of it, mCourser does not know the length of the provided site.
-Sometimes the page may be too short or multiple scrollbars appears. In those cases, provided page should send own height.
+Sometimes the page may be too short or multiple scrollbars appear. In those cases, provided page should send own height.
 
 For sending new height to mCourser, use [mCourser communication](https://github.com/icplayer/mCourser-iframe-communication).
 After the initialization, send height of the document: `communication.updateIFrameHeight(documentHeight);`. Example:
