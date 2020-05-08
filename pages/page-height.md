@@ -14,5 +14,5 @@ After the initialization, send height of the document: `communication.updateIFra
 This method can be called more than once.
 
 
-It's good practice to send height at least once per the site initialization.
+It's good practice to send the height at least once per the site initialization.
 mCourser site does not set always the same iframe size and size may be changed in the future (e.g. UI changes).

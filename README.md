@@ -2,7 +2,7 @@
 This repository contains information how to create site for embeding into mCourser.
 
 ## Requirements
-Custom Table Of Content is not just not only a simple static page. It gives a possibility to embed any site of any complexity into mCourser.
+Custom Table Of Content is not just a simple static page. It gives a possibility to embed any site of any complexity into mCourser.
 Because of it, a site creator should be familiar with the following technologies:
  * HTML 5
  * JS
@@ -20,7 +20,7 @@ Additional skills, which would be useful while site creation are:
 For communication from your site to mCourser additional repository have been maintained: [mCourser communication](https://github.com/icplayer/mCourser-iframe-communication). That repository contains simple util for sending messages between the sites.
 
 ## Creating site
-mCourser contains only few requirement and limitations: 
+mCourser has just few requirement and limitations: 
 * All paths must be relative: styles, JS or images.
 * A package must be zip file with index.html file in root.
 * The site sends information about site height, see: [Site height](./pages/page-height.md)
