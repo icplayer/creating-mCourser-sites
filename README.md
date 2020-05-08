@@ -11,7 +11,7 @@ Because of it, a site creator should be familiar with the following technologies
 Each site should be created by a web developer because of the complexity of ToC. 
 Even simple redirection to a lesson requires a communication with mCourser by a library provided by us.
 
-Additional skills, which would be useful while site creation are:
+Additional skills, which would be useful while creating the site are:
  * Typescript
  * React
  * Angular
