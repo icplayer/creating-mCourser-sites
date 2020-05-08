@@ -22,14 +22,14 @@ If the site is developed manually, there is required to provide any server. Exam
 * Chrome:
     * Click on the preview button.
     * Click by right mouse button on opened site.
-    * Click "inspect". Now there should appears new window.
+    * Click "inspect". A new window should appear.
     * In the new window find "iframe" tag with your site.
     * Double click on the "src" attribute.
     * Enter the address of your server. 
 * Firefox:
     * Click on the preview button
     * Click by right mouse button on opened site.
-    * Click "inspect element". There should appear new window.
+    * Click "inspect element". A new window should appear.
     * In the new window find "iframe" tag with your site.
     * Double click on "src" attribute.
     * Enter the address of your server. 
